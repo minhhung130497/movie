@@ -6,12 +6,18 @@
 //vendor
 
 //Base
-
+@import './Base/normalized';
 
 //components
 
 
 //layouts
+@import './Layouts/header';
+@import './Layouts/banner';
+@import './Layouts/tools';
+@import './Layouts/movie';
+@import './Layouts/new';
+@import './Layouts/contact';
 
 
 //Pages
